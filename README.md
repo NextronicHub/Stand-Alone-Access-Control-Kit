@@ -1,11 +1,11 @@
 # Stand-Alone-Access-Control-Kit
 
-Description:
+## Description:
 Le kit ‘’Stand Alone Access Control Kit’’ est un ensemble de tous les composants nécessaires pour construire votre propre projet de contrôle d’accès autonome.
 Le contrôle d’accès autonome consiste à contrôler un module de relais par un mot de passe composé par l’utilisateur, si le mot de passe est faux, un Buzzer et une led rouge vont être activés.
 
 
-# Composants :
+## Composants :
 •	Arduino UNO + Cable
 
 •	3x4 Keypad
