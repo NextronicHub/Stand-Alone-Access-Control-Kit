@@ -6,24 +6,15 @@ Le contrôle d’accès autonome consiste à contrôler un module de relais par 
 
 
 ## Composants :
-•	Arduino UNO + Cable
+•	Arduino UNO + Cable<br />
+•	3x4 Keypad<br />
+•	Buzzer<br />
+•	LED red + Resistance (220R)<br />
+•	LED bleu + Resistance (220R)<br />
+•	BreadBoard Mini<br />
+•	Wires M to M x20<br />
+•	Wires M to F x10<br />
+•	1 Channel DC 5V Relay Module<br />
 
-•	3x4 Keypad
-
-•	Buzzer
-
-•	LED red + Resistance (220R)
-
-•	LED bleu + Resistance (220R)
-
-•	BreadBoard Mini
-
-•	Wires M to M x20
-
-•	Wires M to F x10
-
-•	1 Channel DC 5V Relay Module
-
-                             For more info about codes Contact Us 
-
-                                    by NEXTRONIC© Team 
+                             For more info about codes Contact Us
+                                   by NEXTRONIC© Team 
