@@ -16,5 +16,5 @@ Le contrôle d’accès autonome consiste à contrôler un module de relais par 
 •	Wires M to F x10<br />
 •	1 Channel DC 5V Relay Module<br />
 
-                             For more info about codes Contact Us
+                                For more infos Contact Us
                                    by NEXTRONIC© Team 
